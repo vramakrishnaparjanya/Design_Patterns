@@ -6,4 +6,4 @@
   - an interface, 
   - abstract class or a 
   - normal java class
-- 
+- Uses if/else or switch blocks for each implementation
